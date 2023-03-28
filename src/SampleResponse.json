@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Brady Dale",
+      "title": "The promise and perils of staking cryptocurrency",
+      "description": "A massive amount of value is tied up in staking. On the Ethereum blockchain alone, $30 billion in value is staked on the network, guaranteeing its transactions are provably fair.",
+      "url": "https://www.axios.com/2023/03/15/promise-perils-staking-cryptocurrency",
+      "urlToImage": "https://images.axios.com/1Oj4XVHbK_nqHJ-vHlnalUGWPrM=/0x0:1920x1080/1366x768/2023/03/09/1678372988334.jpg",
+      "publishedAt": "2023-03-15T15:58:01Z",
+      "content": "Crypto staking is a way of maintaining consensus over bookkeeping systems with thousands of simultaneously updated copies that is, a blockchain.\r\nWhy it matters: A massive amount of value is tied up … [+3395 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Wired",
+      "title": "In Ukraine, Crypto Finds a Purpose",
+      "description": "The UN’s refugee agency has partnered with blockchain and money transfer companies to get vital aid to people displaced by conflict.",
+      "url": "https://www.wired.com/story/ukraine-crypto-refugee-aid",
+      "urlToImage": "https://media.wired.com/photos/64110f9bd531bd05a681abb9/191:100/w_1280,c_limit/w30_MARCH_DEMOCRACY_UKRAINE-CRYPTO.jpg",
+      "publishedAt": "2023-03-15T11:00:00Z",
+      "content": "Crypto has been tapped to collect donations during humanitarian crises in the past. It has been successful in bringing together pools of money, but it can be difficult to actually use on the ground. … [+3681 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Unknown",
+      "title": "Panic at the crypto",
+      "description": "Cryptocurrencies have taken another beating this week. Globe columnist Tim Kiladze makes sense of this latest crash",
+      "url": "https://www.theglobeandmail.com/podcasts/the-decibel/article-panic-at-the-crypto/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/_avQSW-gNb8XMlBIpkC-PJlBCCk=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GHQ5WM2SKJDSDH53LMIWUHHUSA.png",
+      "publishedAt": "2022-06-16T09:00:00Z",
+      "content": "Cryptocurrencies have taken another dive this week. And this crash follows seven months of declines, even for the big names in the game. Bitcoin, for example, is down more than 60 per cent from its p… [+339 chars]"
+    }
+  ]
+}
